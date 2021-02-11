@@ -1,12 +1,8 @@
-package holamundo;
-
-public class HolaMundo {
-
-    
-    public static void main(String[] args) {
-       {
-           System.out.println("Hola Mundo");
-       }
-    }
-    
-}
+package holamundo<HTML>
+<HEAD>
+<TITLE>ejemplo hola mundo</TITLE>
+</HEAD>
+<BODY>
+<P>Hola Mundo</P>
+</BODY>
+</HTML>
